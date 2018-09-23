@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Spirax');
+
+body{
+    background-image: url("../images/wallpaper.jpg");
+}
+
+#trivia{
+    font-size: 90px;
+    font-family: 'Spirax', cursive;
+    color:goldenrod;
+}
+
+#quiz{
+    background-color: white;
+   
+}
